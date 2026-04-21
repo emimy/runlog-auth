@@ -1,0 +1,10 @@
+{
+  "name": "runlog-auth",
+  "version": "1.0.0",
+  "description": "Tiny OAuth broker that holds the Whoop client secret so the RunLog PWA doesn't have to.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}
